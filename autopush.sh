@@ -3,7 +3,7 @@
 # Root dir --> project path
 DIR="${HOME}/project"
 # app file path
-newline_file="/logs.js"
+newline_file="./logs.js"
 
 echo "">>$DIR$newline_file
 
