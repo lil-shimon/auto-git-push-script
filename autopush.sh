@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Root dir --> project path
-DIR="${HOME}/project"
+DIR="${HOME}/project/auto-git-push-script"
 # app file path
 newline_file="/auto-git-push-script/logs.js"
 
