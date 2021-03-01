@@ -2,6 +2,7 @@
 
 ##usage 使用方法
 ```sh
+cd
 mkdir project
 cd project
 git clone https://github.com/lil-shimon/auto-git-push-script.git
